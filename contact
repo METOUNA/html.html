@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> contact</title>
+    </head>
+    <body>
+        <h1> contact</h1>
+        <P>
+            Pour plus d'information contacter le numero ci dessous
+        </P>
+        <p>
+            <a href=""> me contact</a>
+<a href=""> avec ce numero 699212676</a>
+        </p>
+    </body>
+</html>
